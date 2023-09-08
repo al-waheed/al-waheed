@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on Fintech web Application.<br>👯 I’m looking to collaborate on S.E.O, React/Redux and Graphics Design.<br>🤝 I’m looking for help with developing a chrome Extension for site optimization.<br>🌱 I’m currently learning everything 🤪.<br>💬 Ask me about S.E.O and React/Redux.<br>⚡ Fun fact: Love to meditate 👽.<br>🪩 I'm a Nigerian 🇳🇬.
+🔭 I’m currently working on fullstack web Application.<br>👯 I’m looking to collaborate on S.E.O, React/Redux and Graphics Design.<br>🤝 I’m looking for help with developing a chrome Extension for site optimization.<br>🌱 I’m currently learning everything 🤪.<br>💬 Ask me about S.E.O and React/Redux.<br>⚡ Fun fact: Love to meditate 👽.<br>🪩 I'm a Nigerian 🇳🇬.
 
 
 ## 🌐 Socials:
